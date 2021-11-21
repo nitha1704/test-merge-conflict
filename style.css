@@ -3,3 +3,8 @@
     padding:0;
     box-sizing: border-box;
 }
+
+section.dog {
+    color: red;
+    letter-spacing: 1px;
+}
