@@ -4,13 +4,8 @@
     box-sizing: border-box;
 }
 
-section.dog {
-    color: red;
-    letter-spacing: 1px;
-}
-
 section.cat {
-    color:green;
-    font-size: 20px;
-    margin:0 auto;
+    position: relative;
+    font-size: 25px;
+    
 }
