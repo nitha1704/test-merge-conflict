@@ -7,5 +7,6 @@
 section.cat {
     position: relative;
     font-size: 35px;
-    
+    position: inherit;
+    margin-top:20px;
 }
